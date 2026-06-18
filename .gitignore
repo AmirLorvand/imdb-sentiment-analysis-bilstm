@@ -1,0 +1,50 @@
+# macOS system files
+
+.DS_Store
+__MACOSX/
+
+# Python cache files
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Virtual environments
+
+venv/
+env/
+.venv/
+
+# Dataset files
+
+data/
+*.csv
+
+# Embedding files
+
+embeddings/
+glove*.txt
+glove*.zip
+
+# Model files
+
+*.h5
+*.keras
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# Logs and temporary files
+
+*.log
+*.tmp
+
+# IDE/editor files
+
+.idea/
+.vscode/
